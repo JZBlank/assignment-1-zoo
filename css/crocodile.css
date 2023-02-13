@@ -1,0 +1,80 @@
+* {
+  font-family: 'Montserrat';
+  background-color: black;
+  color: white;
+}
+
+/* Navigator Links */
+
+li {
+  float: left;
+  list-style-type: none;
+}
+
+li a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  padding: 10px;
+}
+
+
+.nav_bar{
+  margin: 0;
+  width: 100%;
+  height: 60px;
+  font-size: 20px;
+}
+
+/* Croc */
+
+.background{
+  height: 170px;
+  overflow: hidden;
+}
+
+.croc_background{
+  width: 100%;
+}
+
+
+.croc_background{
+  width: 100%;
+}
+
+.croc_title{
+  font-size: 25px;
+  position: absolute;
+  left: 30px;
+  top: 100px;
+  background: transparent;
+}
+
+.croc_title h1{
+  background-color: transparent;
+  color: white;
+}
+
+.croc_info{
+  padding: 10px;
+}
+
+.croc_info img{
+  float: left;
+  width: 30%;
+  margin-top: 50px;
+  margin-left: 10px;
+  padding-bottom: 50px;
+}
+
+.croc_text{
+  width: 65%;
+  float: left;
+  text-align: left;
+  padding: 20px;
+}
+
+.croc_paragraph ul li{
+  display: block;
+
+}
