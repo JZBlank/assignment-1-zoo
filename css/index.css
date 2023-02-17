@@ -2,6 +2,7 @@
   font-family: 'Montserrat';
   background-color: black;
   color: white;
+  scroll-behavior: smooth;
 }
 
 /* Navigator Links */
@@ -33,7 +34,7 @@ li a {
 /* Welcome Image */
 
 .animal_slides{
-  height: 500px;
+  height: 400px;
   width: 100%;
 }
 
@@ -54,6 +55,13 @@ li a {
   text-align: center;
   position: absolute;
 }
+
+/* About Us */
+.aboutUs{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
 
 /* Animals in Zoo */
 
